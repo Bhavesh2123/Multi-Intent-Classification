@@ -15,6 +15,7 @@ It can predict **multiple intents from a single user query**, which is useful fo
 
 ## 📂 Project Structure
 - `Multi-Intent-Classification.ipynb` → Jupyter Notebook with training + evaluation
+- `Used TF-IDF for data vectorzation
 - `requirements.txt` → Python dependencies
 - `data/` → https://github.com/Bhavesh2123/Multi-Intent-Classification/blob/main/coustomer_support_training_dataset.csv
 
@@ -22,5 +23,6 @@ It can predict **multiple intents from a single user query**, which is useful fo
 
 ## ⚙️ Installation
 Clone the repository and install dependencies:
+
 
 
